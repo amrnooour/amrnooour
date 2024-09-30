@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Amr Nour</h1>
-<h3 align="center">junior flutter developer</h3>
+<h3 align="center">Junior flutter developer</h3>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="Flutter Developer Image" width="300">
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amrnooour&label=Profile%20views&color=0e75b6&style=flat" alt="amrnooour" /> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/amrnooour?tab=repositories](https://github.com/amrnooour?tab=repositories)
 
@@ -30,7 +33,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amrnooour&show_icons=true&locale=en" alt="amrnooour" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrnooour&" alt="amrnooour" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amrnooour&label=Profile%20views&color=0e75b6&style=flat" alt="amrnooour" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amrnooour" alt="amrnooour" /></a> </p>
 
