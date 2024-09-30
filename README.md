@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amr Nour</h1>
 <h3 align="center">junior flutter developer</h3>
 
-
-- <p align="center">
-  <img src="https://img.freepik.com/premium-vector/software-development-web-programming-languages-css-html-it-ui-programmer-cartoon-character-developing-website-coding-flat-illustration-banner_128772-1786.jpg?w=900" alt="Flutter Developer Image" width="500">
-</p>
 <p align="left"> <a href="https://twitter.com/amrnour422" target="blank"><img src="https://img.shields.io/twitter/follow/amrnour422?logo=twitter&style=for-the-badge" alt="amrnour422" /></a> </p>
 
 
@@ -16,6 +12,9 @@
 
 - ⚡ Fun fact **I love Football**
 
+ <p align="center">
+  <img src="https://img.freepik.com/premium-vector/software-development-web-programming-languages-css-html-it-ui-programmer-cartoon-character-developing-website-coding-flat-illustration-banner_128772-1786.jpg?w=900" alt="Flutter Developer Image" width="500">
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/amrnour422" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amrnour422" height="30" width="40" /></a>
