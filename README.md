@@ -12,8 +12,8 @@
 
 - ⚡ Fun fact **I love Football**
 
- <p align="center">
-  <img src="https://img.freepik.com/premium-vector/software-development-web-programming-languages-css-html-it-ui-programmer-cartoon-character-developing-website-coding-flat-illustration-banner_128772-1786.jpg?w=900" alt="Flutter Developer Image" width="250">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="Flutter Developer Image" width="300">
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
