@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amr Nour</h1>
-<h3 align="center">Junior flutter developer</h3>
+<h3 align="center">Junior Software Testing</h3>
 
 
 <p align="center">
